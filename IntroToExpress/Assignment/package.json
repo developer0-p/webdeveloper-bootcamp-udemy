@@ -1,0 +1,14 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "App for practise routes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Domínguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}

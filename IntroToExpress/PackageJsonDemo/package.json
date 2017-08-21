@@ -1,0 +1,14 @@
+{
+  "name": "packagejsondemo",
+  "version": "1.0.0",
+  "description": "Simple Package.json demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authorhttps://ide.c9.io/dominguezp/udemywebdevbootcamp": "Pablo Domínguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
